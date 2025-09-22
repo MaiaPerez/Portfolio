@@ -183,6 +183,18 @@ section{
                 0 0 50px var(--main-color);
 }
 
+.info-header {
+    display: flex;
+    align-items: center;
+    gap: 3rem;           
+    margin-bottom: 3rem;
+}
+
+.info-header h2 {
+    font-size: 6rem;  
+    text-align: left;
+    margin: 0;
+}
 
 .info{
     display: flex;
@@ -206,6 +218,13 @@ section{
 
 .info-content .btn{
     margin: 3rem 0;
+}
+
+.info-img img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
 }
 
 
