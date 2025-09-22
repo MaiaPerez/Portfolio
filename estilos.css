@@ -316,7 +316,7 @@ section{
     width:100%;
     padding: 2.5rem;
     font-size: 1.8rem;
-    color: var(--text-color);
+    color: hsl(0, 0%, 0%);
     background-color: var(--bg-color);
     border-radius: 2rem;
     border: 2px solid var(--main-color);
